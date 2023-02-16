@@ -1,0 +1,2 @@
+# Betty
+First C repo
